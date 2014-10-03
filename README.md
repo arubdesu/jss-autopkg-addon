@@ -3,6 +3,10 @@ jss-autopkg-addon
 
 As announced [here](http://www.318.com/2014/01/introducing-jssimporter-for-autopkg/), the file in this repo is an add-on to the [autopkg project](http://autopkg.github.io/autopkg/).
 
+Development Status
+=================
+I [(@arubdesu)](https://github.com/arubdesu) don't want to speak for the other contributors, but there isn't much activity at present. The spiritual successor fork is [Shea Craig's super-capable version,](https://github.com/sheagcraig/jss-autopkg-addon) which relies on his [python-jss,](https://github.com/sheagcraig/python-jss) bundled in his release. Please consider trying it first if you want more customization and advanced features! 
+
 Installation and Setup
 =================
 
@@ -17,10 +21,6 @@ defaults write com.github.autopkg API_PASSWORD apiPassword
 ```
 
 Then please help yourself to the [jss-specific recipes](https://github.com/arubdesu/jssRecipes) that rely on the ones provided by the autopkg org.
-
-Development Status
-=================
-I [@arubdesu](https://github.com/arubdesu) don't want to speak for the other contributors, but there isn't much activity at present. The spiritual successor fork is [Shea Craig's super-capable version,](https://github.com/sheagcraig/jss-autopkg-addon) which relies on his [python-jss,](https://github.com/sheagcraig/python-jss) bundled in his release. Please consider trying it first if you want more customization and advanced features! 
 
 Known Issues
 =================
