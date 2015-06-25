@@ -1,11 +1,13 @@
+Development Status
+=================
+#This software should be considered un-maintained and end-of-life. 
+The proper successor fork is [Shea Craig's super-capable version,](https://github.com/sheagcraig/jss-autopkg-addon) which relies on his [python-jss,](https://github.com/sheagcraig/python-jss) bundled in his release. Please transition to using his. I'll be removing this repo soon, so feel free to fork or download the code if it serves some important historical purpose for you.
+
 jss-autopkg-addon
 =================
 
-As announced [here](http://www.318.com/2014/01/introducing-jssimporter-for-autopkg/), the file in this repo is an add-on to the [autopkg project](http://autopkg.github.io/autopkg/).
+As originally announced [here](https://web.archive.org/web/20140329025020/http://www.318.com/2014/01/introducing-jssimporter-for-autopkg/), the file in this repo is an add-on to the [autopkg project](http://autopkg.github.io/autopkg/).
 
-Development Status
-=================
-I [(@arubdesu)](https://github.com/arubdesu) don't want to speak for the other contributors, but there isn't much activity at present. The spiritual successor fork is [Shea Craig's super-capable version,](https://github.com/sheagcraig/jss-autopkg-addon) which relies on his [python-jss,](https://github.com/sheagcraig/python-jss) bundled in his release. Please consider trying it first if you want more customization and advanced features! 
 
 Installation and Setup
 =================
